@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  artist: one
+  album: one
+  track: one
+  scrobbled_at: 2023-12-29 00:49:05
+
+two:
+  user: two
+  artist: two
+  album: two
+  track: two
+  scrobbled_at: 2023-12-29 00:49:05

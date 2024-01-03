@@ -1,0 +1,6 @@
+<h1>Select User</h1>
+<%= form_with scope: :user, url: sessions_path do |form| %>
+	<%= form.label :id, "Username" %>
+	<%= form.text_field :id %>
+	<%= form.submit "View user" %>
+<% end %>
